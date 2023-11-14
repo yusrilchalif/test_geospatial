@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 146eba7038a14426a7d95a5b80da5291, type: 3}
+  m_Name: yusrilchalif
+  m_EditorClassIdentifier: 
+  m_PlayerName: yusrilchalif
+  m_PlayerData: []
+  m_Workspaces:
+  - name: workspaces/default-r9f8q0lksbn5rer1oaibhq
+    displayName: Inworld AI Demos
+    experimentalFeatures: []
+    billingAccount: billing-accounts/5869c4ba-a557-4cec-af53-4febd6290758
+    meta: 
+    runtimeAccess: RUNTIME_ACCESS_PRIVATE
+    scenes: []
+    keySecrets: []
+  m_UserID: 
+  m_BillingAccount: billing-accounts/5869c4ba-a557-4cec-af53-4febd6290758
